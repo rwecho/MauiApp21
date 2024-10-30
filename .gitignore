@@ -1,0 +1,5 @@
+/bin/*
+/obj/*
+/.vs/*
+MauiApp21/bin/*
+MauiApp21/obj/*
